@@ -5,7 +5,7 @@ If you boil plop down to its core, it is basically glue code between  [inquirer]
 
 > This documentation is a work in progress. If you have great ideas, I'd love to hear them.
 
-# Installation
+# Installation 1
 ## 1. Add plop to your project
 ```
 $ npm install --save-dev plop
