@@ -1,0 +1,16 @@
+{
+	"name": "polooi",
+	"version": "0.1.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"plop": "^2.4.0"
+	},
+	"script": {
+		"plop": "plop"
+	},
+	"dependencies": {
+		"inquirer-directory": "^2.2.0",
+		"lodash": "^4.17.15"
+	}
+}
